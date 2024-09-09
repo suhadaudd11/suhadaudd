@@ -1,6 +1,6 @@
 # suhadaudd
 Hello There ✌🏻
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 My Skills
 _________________________________________________________________________________________________________________________________
