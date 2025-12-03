@@ -14,16 +14,11 @@ I’m a software engineering educator, researcher and sometimes a practitioner d
 
 💬 Ask me about: Sustainable and maintanable practices in software engineering or how to align software development with sustainability goals.
 
-⚡ Fun fact: I enjoy exploring how software can be both innovative and environmentally responsible, and I'm always excited to discuss ways to make our digital world more sustainable!
-
-🔗 For more about my PhD projects: You can find detailed information and repositories related to my previous research on my old GitHub profile @chuuyaa.
-
-📫 How to reach me: Feel free to connect with me here on GitHub or email me at [nasuha@um.edu.my]. 
-
-
 ⚡ Fun fact: I love finding ways to make software both innovative and environmentally responsible!
 
 🔗 Explore my past research: For details on my PhD projects, visit my old GitHub profile, https://github.com/chuuyaa
+
+📫 How to reach me: Feel free to connect with me here on GitHub or email me at [nasuha@um.edu.my]. 
 
 **What I have experienced**
 _________________________________________________________________________________________________________________________________
